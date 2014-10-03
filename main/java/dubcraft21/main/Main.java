@@ -10,7 +10,6 @@ import cpw.mods.fml.common.registry.GameRegistry;
 public class Main {
 	
 	public Main() {
-		GameRegistry.addSmelting(Items.string, new ItemStack(Items.string, 1), (float)100000);
 		
 	}
 	
