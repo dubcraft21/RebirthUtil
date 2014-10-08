@@ -29,7 +29,7 @@ public class InfoCMD implements ICommand {
 
 	@Override
 	public void processCommand(ICommandSender p_71515_1_, String[] p_71515_2_) {
-		
+		System.out.println("Command REBIRTH_INOFO USED!!!!");
 	}
 
 	@Override
